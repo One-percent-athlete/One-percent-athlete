@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @One-percent-athlete aka Ryu Suzuki
-- 👀 I’m interested in Programming, Coding, UI/UX, Design, Marketing, Teaching and Learning New Skills
-- 🌱 I’m currently learning Python, Django, Vue, React
+- 👀 Multilingual operations support and custom software for tourism and small businesses.
+- 🌱 I’m currently working as a self employed web developer and ski instructor
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 Feel Free To Reach Out
 
